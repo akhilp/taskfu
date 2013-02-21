@@ -1,0 +1,7 @@
+c:\users\akhil.patel\documents\visual studio 2010\Projects\MongoTest\MongoTest\bin\Debug\MongoTest.exe
+c:\users\akhil.patel\documents\visual studio 2010\Projects\MongoTest\MongoTest\bin\Debug\MongoTest.pdb
+c:\users\akhil.patel\documents\visual studio 2010\Projects\MongoTest\MongoTest\bin\Debug\MongoDB.Bson.dll
+c:\users\akhil.patel\documents\visual studio 2010\Projects\MongoTest\MongoTest\bin\Debug\MongoDB.Driver.dll
+c:\users\akhil.patel\documents\visual studio 2010\Projects\MongoTest\MongoTest\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\akhil.patel\documents\visual studio 2010\Projects\MongoTest\MongoTest\obj\x86\Debug\MongoTest.exe
+c:\users\akhil.patel\documents\visual studio 2010\Projects\MongoTest\MongoTest\obj\x86\Debug\MongoTest.pdb
